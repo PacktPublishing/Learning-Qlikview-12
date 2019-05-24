@@ -1,4 +1,4 @@
-# Unity 5 for Beginners [Video]
+# Learning QlikView 12 [Video]
 This is the code repository for [Learning QlikView 12 [Video]](https://www.packtpub.com/big-data-and-business-intelligence/learning-qlikview-12-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Application development is a fundamental task for developers. QlikView provides impressive UI Functions to design and customize applications to meet developers’ and organizational needs.
