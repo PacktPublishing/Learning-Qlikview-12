@@ -1,36 +1,29 @@
 # Unity 5 for Beginners [Video]
-This is the code repository for [Unity 5 for Beginners [Video]](https://www.packtpub.com/game-development/unity-5-beginners-video?utm_source=github&utm_medium=repository&utm_campaign=9781785286346), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Learning QlikView 12 [Video]](https://www.packtpub.com/big-data-and-business-intelligence/learning-qlikview-12-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-Unity Fundamentals is an easy-to-follow exploration of the Unity foundations. It covers the core features every developer needs to know to work effectively. Using practical and hands-on examples, Alan Thorn explores how Unity can be applied creatively to build exciting games that sell.
+Application development is a fundamental task for developers. QlikView provides impressive UI Functions to design and customize applications to meet developers’ and organizational needs.
+
+This video course introduces the Business Intelligence platform, Qlikview, and demonstrates to viewers how to leverage the system ultimately to conduct and deliver data analysis on business data. The viewers will learn how to build an application that fulfils the D.A.R (Dashboard, Analysis and Report) approach suggested by Qlik.
+
+The course will start with introducing viewers to the QlikView platform and how to set up their own project. It will take them through document elements and how to create a connection with multiple datasources. The course will guide users in creating Analysis Reports, Adding Visualizations and also tips & tricks on improving them. Users will learn how to optimise their Data Models by using advanced Script Functions.
+
+By the end of the course, the viewers will have a good grounding in QlikView and find it easy to create and analyse reports.
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Understand the foundations of Unity 
-<LI>Work confidently in the Unity interface 
-<LI>Understand Level Design tools 
-<LI>Learn how to create interactive 3D Worlds 
-<LI>Work with meshes, animations, materials, textures, and more 
-<LI>Learn how to build a simple game 
-<LI>Explore useful tips and tricks for accelerating your workflow 
-<LI>Getting started at creating game logic and functionality </LI></UL></DIV>
+<LI>Download QlikView Personal Edition and Set up a Project Environment
+<LI>Introduce QlikView terminology such as Document, Sheet Elements and Scripts, Adding data and the different data sources available to use
+<LI>Create a new document sheet, Design Objects and manage their properties, learn best practice guidelines for design
+<LI>Solve some data modeling challenges, the If statement, using a Master Calendar table, solving Circular References, and join or concatenate tables to create budget data.
+<LI>Create Data Layers with QVD files</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Unity Fundamentals is targeted at complete newcomers to the Unity engine, including students and hobbyists seeking to enter the games industry. This course requires no previous Unity or game development experience.	
+This course is for data analysts, executives, managers, decision makers, or anyone who works with data and wants to make sense of this data in a simple yet extremely powerful way. This video tutorial is for developers as well as non-developers. Some experience with programming would be useful but is not compulsory.	
 ### Technical Requirements
-This course has the following software requirements:<br/>
-Software Required (With version mentioned)
-
-Unity version 5.6 or higher
-
-OS required
-
-Windows 7, 8, or 10
-(64-bit)
-Mac OS X 10.9 or
-higher
+Qlik
 
 ## Related Products
 * [Introduction To Unity® For Absolute Beginners [Video]](https://www.packtpub.com/application-development/introduction-to-unity-for-absolute-beginners-video?utm_source=github&utm_medium=repository&utm_campaign=9781838648718)
